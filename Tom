@@ -1,0 +1,2 @@
+def youeryuan():
+    print("爸爸妈妈去上班，我去幼儿园呀")
